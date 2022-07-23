@@ -25,15 +25,7 @@ public class TeenNumberChecker {
 
         System.out.println(false);
         return false;
-    }
+teach something about sex(a,^20
+       return true;
 
-    public static boolean isTeen(int a){
-        if((a > 12) && (a < 20)){
-            System.out.println(true);
-            return true;
-        }
-        System.out.println(false);
-        return false;
-    }
-}
 
